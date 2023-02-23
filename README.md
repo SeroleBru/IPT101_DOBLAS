@@ -4,3 +4,5 @@ wako kasabot sa akong kinabuhi mamser
 <h1>SeroleBru</h1>
 #Sample Code
 printf( 'Hello World!');
+# kc's bestfriend
+UWU :)
