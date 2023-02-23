@@ -1,6 +1,6 @@
 # Doblas' Project
 wako kasabot sa akong kinabuhi mamser
 #Authors
-@@SeroleBru
+<h1>SeroleBru</h1>
 #Sample Code
 printf( 'Hello World!');
