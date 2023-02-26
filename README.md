@@ -1,8 +1,8 @@
 # Doblas' Project
 wako kasabot sa akong kinabuhi mamser
-#Authors
-<h1>SeroleBru</h1>
-#Sample Code
+<h1># Authors</h1>
+@SeroleBru
+<h2># Sample Code</h2>
 printf( 'Hello World!');
-# kc's bestfriend
-UWU :)
+
+
