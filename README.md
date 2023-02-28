@@ -26,3 +26,6 @@ printf( 'Hello World!');
 ## About myself
 
 * an amateur artist
+
+## wa nako kasabot
+
