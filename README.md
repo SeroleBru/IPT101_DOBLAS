@@ -22,6 +22,4 @@ printf( 'Hello World!');
 
 * Elementary: Tagbilaran City Central Elementary School
 * High School: Dr. Cecilio Putong National High School
-* College: Holy Name University 
-
 
