@@ -18,3 +18,8 @@ printf( 'Hello World!');
 
 * Step 1: Download the zip file or use clone
 
+## Educational Attainment 
+
+* Elementary: Tagbilaran City Central Elementary School
+* High School: Dr. Cecilio Putong National High School
+
